@@ -1,4 +1,5 @@
 REM INSERTING into EXPORT_TABLE
 SET DEFINE OFF;
 
-Insert into EXPORT_TABLE (EMPID,FIRSTNAME,LASTNAME,DEPTID,DESIGNATION,EMAIL,PHONE,HIREDATE,SALARY,CITY) values (1001,'John','Smith',10,'Software Engineer','john.smith@company.com','555-1001','15-03-2021',85000,'Bangalore');
+Insert into EXPORT_TABLE (EMPID,FIRSTNAME,LASTNAME,DEPTID,DESIGNATION,EMAIL,PHONE,HIREDATE,SALARY,CITY) 
+values (1001,'John','Smith',10,'Software Engineer','john.smith@company.com','555-1001','15-03-2021',85000,'Bangalore');
